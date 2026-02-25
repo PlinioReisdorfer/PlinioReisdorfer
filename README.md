@@ -1,5 +1,9 @@
 <h1 align="center">aoba  guys</h1>
 
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHEzcThtMzRsYnVzbmQ5OGFsdWN6d3FpaW9obm5zM3J5aHZ0MzRjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zl7u48zLVFgLpRwq6f/giphy.gif"  />
+</div>
+
 ###
 
 <h1 align="left">Sobre min</h1>
